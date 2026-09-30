@@ -86,23 +86,23 @@ const songs = [
 	},
 	{
 		title: "Love Story",
-		artist: "Taylor Swift",
-		src: "songs/love-story.mp3",
-		duration: "3:55",
+		artist: "indila",
+		src: "playlists/love-story.mp3",
+		duration: "4:45",
 		cover: "image.png"
 	},
 	{
 		title: "Raindance (ft. Tems)",
 		artist: "Tems",
-		src: "songs/raindance-ft-tems.mp3",
-		duration: "3:40",
+		src: "playlists/raindance-ft-tems.mp3",
+		duration: "3:41",
 		cover: "image.png"
 	},
 	{
 		title: "Starlight",
-		artist: "Muse",
-		src: "songs/starlight.mp3",
-		duration: "3:24",
+		artist: "hwang in yeop",
+		src: "playlists/starlight.mp3",
+		duration: "3:25",
 		cover: "image.png"
 	}
 ];
