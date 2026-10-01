@@ -86,28 +86,28 @@ const songs = [
 	},
 	{
 		title: "Love Story",
-		artist: "indila",
-		src: "playlists/love-story.mp3",
-		duration: "4:45",
+		artist: "Taylor Swift",
+		src: "songs/love-story.mp3",
+		duration: "3:55",
 		cover: "image.png"
 	},
 	{
 		title: "Raindance (ft. Tems)",
 		artist: "Tems",
-		src: "playlists/raindance-ft-tems.mp3",
-		duration: "3:41",
+		src: "songs/raindance-ft-tems.mp3",
+		duration: "3:40",
 		cover: "image.png"
 	},
 	{
 		title: "Starlight",
-		artist: "hwang in yeop",
-		src: "playlists/starlight.mp3",
-		duration: "3:25",
+		artist: "Muse",
+		src: "songs/starlight.mp3",
+		duration: "3:24",
 		cover: "image.png"
 	}
 ];
 
-let tracks = [...songs, ...plyalists];
+let tracks = [...songs];
 let currentTrackIndex = 0;
 let autoplay = true;
 let isSeeking = false;
