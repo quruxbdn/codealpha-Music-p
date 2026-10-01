@@ -107,7 +107,7 @@ const songs = [
 	}
 ];
 
-let tracks = [...songs];
+let tracks = [...songs, ...plyalists];
 let currentTrackIndex = 0;
 let autoplay = true;
 let isSeeking = false;
